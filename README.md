@@ -2,7 +2,7 @@
 
 # Eclipse Kanto - File Upload
 
-[![Coverage](https://github.com/eclipse-kanto/file-upload/wiki/coverage.svg)](#)
+[![Coverage](https://github.com/daniel-milchev/file-upload/wiki/coverage.svg)](#)
 
 ## Overview
 
